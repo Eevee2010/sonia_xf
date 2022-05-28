@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Sonia Cute Cita</title>
+        <link rel="icon" type="image/x-icon" href="favicon.jpeg">
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+        <header>
+                <div class="top">
+                        <ul class="nav-menu">
+                                <li class="homebtn"> <a href="">Home</a></li>
+                                <li> <a href="">About</a></li>
+                                <li> <a href="">Why</a></li>
+                                <li> <a href="">Donate</a></li>
+                                <li> <a href="">Contact</a></li>
+                        </ul>
+                </div>
+                <div class="tagline">
+
+                        <h1>Share your home with a cute dog!</h1>
+                        <div class="Donate">
+                                <a href="" class="bttn">Donate </a>
+                </div>
+        </header>
+</body>
+</html>
